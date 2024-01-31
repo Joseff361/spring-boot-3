@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c675e297-802d-47cf-abf6-4fe90bba7660" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/sql-scripts/employee-directory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/Luv2codeRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/src/test/java/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/CruddemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/security/Luv2codeRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-spring-boot-rest-security-employee-starter-code/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/sql-scripts/employee-directory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/security/Luv2codeRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/src/test/java/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/CruddemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/security/Luv2codeRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-spring-boot-rest-security-jdbc-authentication/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/sql-scripts/04-setup-spring-security-demo-database-plaintext.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/sql-scripts/05-setup-spring-security-demo-database-bcrypt.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/sql-scripts/06-setup-spring-security-demo-database-bcrypt-custom-table-names.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/sql-scripts/employee-directory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/security/Luv2codeRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/src/test/java/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/CruddemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/security/Luv2codeRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-spring-boot-rest-security-jdbc-authentication-with-custom-tables/target/classes/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bonus-code-spring-boot-rest-security-jpa-hibernate-bcrypt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql-scripts/01-employee-directory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql-scripts/02-setup-spring-security-demo-database-hibernate-bcrypt.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/RoleDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luv2code/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bhgpAJ4ynvsrC2UyxVWtNurjbk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CruddemoApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CruddemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springboot.cruddemo.CruddemoApplication" />
+      <module name="cruddemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springboot.cruddemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CruddemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c675e297-802d-47cf-abf6-4fe90bba7660" name="Changes" comment="" />
+      <created>1706672905334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706672905334</updated>
+    </task>
+    <servers />
+  </component>
+</project>
